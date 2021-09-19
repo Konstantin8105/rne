@@ -1,0 +1,6 @@
+github.com/Konstantin8105/errors v0.1.0 h1:YlF98T37IPvBGzxbj6AhXrY4VdoFfW60KEibUOtOpkg=
+github.com/Konstantin8105/errors v0.1.0/go.mod h1:cKK/HtcfxJFe1RvnGzhWl8jcZpnTqZjKwvMBUrLsis4=
+github.com/Konstantin8105/sm v0.0.0-20210919121533-4c48719fb009 h1:V8YCJ9PP3QmY3ta0qp3a1w2pt39QIjCluseI/4pvrTc=
+github.com/Konstantin8105/sm v0.0.0-20210919121533-4c48719fb009/go.mod h1:vJkLicVpARgQQHhhSDDY4P7iDNabo3DpOJcCW3UfO14=
+github.com/Konstantin8105/tree v0.1.0 h1:4zHm0vfnQCNlXqv4I00R5LoXz8HEeWk7BwvNgjnl6Sg=
+github.com/Konstantin8105/tree v0.1.0/go.mod h1:/KrCn6rMgf1uoXUY2HjVvML1LeLUULD1BDiHWJhJwII=
